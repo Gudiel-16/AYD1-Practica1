@@ -1,0 +1,17 @@
+.botonAdd {
+    float: right;
+}
+
+.swal2-container {
+    z-index: 100000000 !important;
+}
+
+/*input::-webkit-datetime-edit-month-field,
+::-webkit-datetime-edit-day-field,
+::-webkit-datetime-edit-text {
+    display:none;
+}*/
+
+.MuiTableCell-paddingCheckbox {
+    padding: 12px !important;
+}
